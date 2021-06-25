@@ -19,6 +19,8 @@ The ESP12E-A9G uses a sim card to get 2G internet connection so the main advanta
 The drone controller website works on any browser so we have universal compatibility for all smartphones and pc's.
 On a smartphone the website can be controlled vertically like a gamepad thanks to proper button positioning.
 
+So essentially the OpenDroneProject can help to turn a cheap china drone into a professional high cost autonomous drone.
+
 # Case
 
 The Open scad parametric case including a slide cover can be 3d printed without supports. You just need 4 screws and nuts to fix the ESP12E-A9G and 2 for the GY91-MPU9250.
