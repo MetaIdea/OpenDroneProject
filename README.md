@@ -19,7 +19,7 @@ The ESP12E-A9G uses a sim card to get 2G internet connection so the main advanta
 The drone controller website works on any browser so we have universal compatibility for all smartphones and pc's.
 On a smartphone the website can be controlled vertically like a gamepad thanks to proper button positioning.
 
-So essentially the OpenDroneProject can help to turn a cheap china drone into a professional high cost autonomous drone.
+So essentially the OpenDroneProject can help to turn a cheap china drone into a professional high cost autonomous drone allowing features like waypoint missions and auto follow me mode.
 
 # Case
 
